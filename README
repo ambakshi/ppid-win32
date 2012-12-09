@@ -1,0 +1,8 @@
+Use PEB structure to get the PID from a parent
+process in Windows.
+
+Run make after setting VS vars (Visual Studio
+command prompt).
+
+Amit Bakshi
+01/10/2011
